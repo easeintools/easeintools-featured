@@ -4,6 +4,8 @@ Welcome to the **[EaseInTools Featured Tools](https://easeintools.com/featured-t
 This document lists all the curated, specialized tools available on EaseInTools — a growing collection of simple, practical online utilities designed for developers, content creators, and productivity seekers. Each tool listed below includes a link to directly access it on the EaseInTools website.
 
 ---
+https://easeintools.com/traffic-spike-calculator
+https://easeintools.com/cost-of-downtime-calculator
 
 ## 🔧 Featured Tools
 
@@ -11,9 +13,9 @@ This document lists all the curated, specialized tools available on EaseInTools 
 | Tool | Description |
 |------|-------------|
 | **[Hosting Bottleneck Analyzer](https://easeintools.com/hosting-bottleneck-analyzer)** | Analyze your hosting performance to identify RAM and CPU bottlenecks slowing down your website.  |
-| **[Traffic Spike Readiness Calculator](https://easeintools.com/traffic-spike-readiness-calculator)** | Estimate whether your site can survive traffic spikes from viral moments. |
-| **[Developer Payload Cleaner & Normalizer](https://easeintools.com/developer-payload-cleaner-normalizer)** | Clean, normalize, and validate messy API/webhook payloads.  |
-| **[Environment Variable Conflict Detector](https://easeintools.com/environment-variable-conflict-detector)** | Compare `.env` files to spot missing keys or mismatches between environments. |
+| **[Traffic Spike Readiness Calculator](https://easeintools.com/traffic-spike-calculator)** | Estimate whether your site can survive traffic spikes from viral moments. |
+| **[Developer Payload Cleaner & Normalizer](https://easeintools.com/payload-cleaner)** | Clean, normalize, and validate messy API/webhook payloads.  |
+| **[Environment Variable Conflict Detector](https://easeintools.com/env-conflict-detector)** | Compare `.env` files to spot missing keys or mismatches between environments. |
 | **[API Response Comparator](https://easeintools.com/api-response-comparator)** | Compare two API responses to spot removed, added, or modified fields.|
 
 ---
@@ -23,6 +25,7 @@ This document lists all the curated, specialized tools available on EaseInTools 
 |------|-------------|
 | **[Meeting Cost Calculator](https://easeintools.com/meeting-cost-calculator)** | Calculate the real cost of meetings in time and money.|
 | **[Startup Equity Calculator](https://easeintools.com/startup-equity-calculator)** | Visualize equity vesting, dilution, and potential exit value. |
+| **[Online Downtime Calculator](https://easeintools.com/cost-of-downtime-calculator)** | Calculate the true financial loss of downtime. |
 
 ---
 
@@ -37,7 +40,7 @@ This document lists all the curated, specialized tools available on EaseInTools 
 ### 🗃️ SQL & Markdown Tools
 | Tool | Description |
 |------|-------------|
-| **[SQL Formatter & Beautifier](https://easeintools.com/sql-formatter-beautifier)** | Clean and format messy SQL queries. |
+| **[SQL Formatter & Beautifier](https://easeintools.com/sql-formatter)** | Clean and format messy SQL queries. |
 | **[Markdown to HTML Converter](https://easeintools.com/markdown-to-html-converter)** | Convert Markdown text to clean HTML instantly. |
 
 ---
@@ -45,7 +48,7 @@ This document lists all the curated, specialized tools available on EaseInTools 
 ### 🔒 Security & Utility
 | Tool | Description |
 |------|-------------|
-| **[Secure Password Generator](https://easeintools.com/secure-password-generator)** | Generate strong, secure passwords with customizable options. |
+| **[Secure Password Generator](https://easeintools.com/password-generator)** | Generate strong, secure passwords with customizable options. |
 
 ---
 
